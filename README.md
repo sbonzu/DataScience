@@ -1,2 +1,2 @@
 # DataScience
-None
+This repo contains all DS training materials
